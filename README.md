@@ -225,6 +225,8 @@ The script will:
 
 ### Step 4: Verify the Pipeline Jobs
 
+![Animation GIF](https://github.com/lsa26/jenkins-maven-to-pipeline-converter/blob/main/gif/runtestpipelineconverted.gif?raw=true)
+
 After running the script, new pipeline jobs will be created in the same folder with the name <original-job-name>-pipeline.
 
 You can verify the newly created pipelines by:
