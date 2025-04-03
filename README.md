@@ -6,6 +6,10 @@ This script automates the conversion of Maven-based Jenkins jobs to Jenkins Pipe
 
 ## Prerequisites
 
+![Animation GIF](https://github.com/lsa26/jenkins-maven-to-pipeline-converter/blob/main/gif/mavenjob-to-pipeline.gif?raw=true)
+
+
+
 Before using this script, make sure you have the following:
 
 - Jenkins Installed: Ensure you have Jenkins running with administrative access.
