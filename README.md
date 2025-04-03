@@ -216,7 +216,7 @@ The script will:
 
 - Create new pipeline jobs for each Maven job.
 
-###Step 4: Verify the Pipeline Jobs
+### Step 4: Verify the Pipeline Jobs
 
 After running the script, new pipeline jobs will be created in the same folder with the name <original-job-name>-pipeline.
 
