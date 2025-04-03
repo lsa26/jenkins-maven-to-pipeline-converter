@@ -198,6 +198,9 @@ println "🎉 Conversion completed!"
 
 ### Step 3: Run the Script in Jenkins
 
+![Animation GIF](https://github.com/lsa26/jenkins-maven-to-pipeline-converter/blob/main/gif/convertingjobstopipeline.gif?raw=true)
+
+
 Go to Jenkins and log in with administrative rights.
 
 Navigate to Manage Jenkins → Script Console.
